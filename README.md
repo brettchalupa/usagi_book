@@ -2,7 +2,7 @@
 
 A book by Brett Chalupa.
 
-Made [mdBook](https://rust-lang.github.io/mdBook/index.html).
+Made with [mdBook](https://rust-lang.github.io/mdBook/index.html) v0.5.x.
 
 ## Writing
 
