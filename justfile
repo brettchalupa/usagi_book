@@ -1,3 +1,6 @@
+dev:
+    mdbook serve
+
 fmt:
     deno fmt *.md src/*.md src/recipes/*.md
  
