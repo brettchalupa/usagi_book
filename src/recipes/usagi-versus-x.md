@@ -178,7 +178,7 @@ flexibility.
 
 ## How to Decide
 
-It's ultimate your decision! That's part of what's fun about making games.
+It's ultimately your decision! That's part of what's fun about making games.
 There's no single best choice or an engine that does everything for everyone.
 You could go and spend a few months or years evaluating all of the options.
 That's fun in and of itself and you'll learn a lot. But if you want to focus on
