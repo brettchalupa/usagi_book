@@ -1,5 +1,8 @@
 # _Game Programming with Usagi_
 
+**NOTE**: this repo has been archived, the book now lives in the main Usagi repo
+at https://codeberg.org/brettchalupa/usagi/src/branch/main/book
+
 A book by Brett Chalupa.
 
 Made with [mdBook](https://rust-lang.github.io/mdBook/index.html) v0.5.x.
